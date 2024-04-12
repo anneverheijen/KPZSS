@@ -1,0 +1,6 @@
+antconnect
+numpy
+pandas
+python-dotenv
+pathlib
+html2text

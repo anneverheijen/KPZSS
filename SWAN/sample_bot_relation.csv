@@ -1,0 +1,8 @@
+﻿Scenario;zss;Bodem bestand;SWAN BOT
+geen verandering;0;z:\130991_Systeemanalyse_ZSS\2.Data\bathy\ontvangen\WS\oplevering\C - geen verandering\WS-25m_2021.mat;z:\130991_Systeemanalyse_ZSS\3.Models\SWAN\2D\Westerschelde\tests\_bodem\WS_NM_RF.bot
+trend;0;z:\130991_Systeemanalyse_ZSS\2.Data\bathy\ontvangen\WS\oplevering\A1 - trends 2100\bath2100_filled.mat;z:\130991_Systeemanalyse_ZSS\3.Models\SWAN\2D\Westerschelde\tests\_bodem\WS_VT_A1.bot
+trend;0;z:\130991_Systeemanalyse_ZSS\2.Data\bathy\ontvangen\WS\oplevering\A2 - trends 2200\bathy2200_filled.mat;z:\130991_Systeemanalyse_ZSS\3.Models\SWAN\2D\Westerschelde\tests\_bodem\WS_VT_A2.bot
+meegroei;50;z:\130991_Systeemanalyse_ZSS\2.Data\bathy\ontvangen\WS\oplevering\B - meegroeien\WS-25m_05.mat;z:\130991_Systeemanalyse_ZSS\3.Models\SWAN\2D\Westerschelde\tests\_bodem\WS_VM_B1.bot
+meegroei;100;z:\130991_Systeemanalyse_ZSS\2.Data\bathy\ontvangen\WS\oplevering\B - meegroeien\WS-25m_1.mat;z:\130991_Systeemanalyse_ZSS\3.Models\SWAN\2D\Westerschelde\tests\_bodem\WS_VM_B2.bot
+meegroei;200;z:\130991_Systeemanalyse_ZSS\2.Data\bathy\ontvangen\WS\oplevering\B - meegroeien\WS-25m_2.mat;z:\130991_Systeemanalyse_ZSS\3.Models\SWAN\2D\Westerschelde\tests\_bodem\WS_VM_B3.bot
+meegroei;300;z:\130991_Systeemanalyse_ZSS\2.Data\bathy\ontvangen\WS\oplevering\B - meegroeien\WS-25m_3.mat;z:\130991_Systeemanalyse_ZSS\3.Models\SWAN\2D\Westerschelde\tests\_bodem\WS_VM_B4.bot
